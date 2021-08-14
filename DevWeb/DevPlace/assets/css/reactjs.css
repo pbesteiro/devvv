@@ -223,12 +223,11 @@ font-weight: 600;
   
     /* CARD  */
   /* PROXIMAS FECHAS  */
-  
-    #proximas-fechas {
-     
-      margin-bottom: 30px;
-      width: max-content;
-    }
+
+#proximas-fechas {
+    margin-bottom: 30px;
+    /*width: max-content;*/
+}
     
     
     

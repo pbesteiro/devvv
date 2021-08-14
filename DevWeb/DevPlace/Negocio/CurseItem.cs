@@ -72,7 +72,7 @@ namespace CruceroDelNorte.Negocio
             get
             {
 
-                return this.DateStart.Hour.ToString() + " - " + this.DateEnd.Hour.ToString();
+                return this.DateStart.Hour.ToString() + " hs. - " + this.DateEnd.Hour.ToString() + " hs.";
             }
         }
 

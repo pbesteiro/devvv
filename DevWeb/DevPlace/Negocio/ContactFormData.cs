@@ -11,5 +11,6 @@ namespace CruceroDelNorte.Negocio
         public string Provinces { get; set; }
         public string knowUsBy { get; set; }
         public string Curse { get; set; }
+        public string Fee { get; set; }
     }
 }

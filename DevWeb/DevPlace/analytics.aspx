@@ -104,8 +104,7 @@
                                         <h4><u>PROGRAMAS</u> > <u>DATOS</u> > DATA ANALITYCS</h4>
                                         <h4 class="pt-3">MODALIDAD ONLINE <b>EN VIVO</b></h4>
                                         <h1 class="pt-1">DATA ANALITYCS</h1>
-                                        <h4 class="pt-5"><i class="fas fa-check"></i> Capacidad de 30 alumnos</h4>
-                                        <h4><i class="fas fa-check"></i> Dura 3 meses</h4>
+                                        <h4 class="pt-5"><i class="fas fa-check"></i> Duración 3 meses</h4>
                                         <h4><i class="fas fa-check"></i> 2 sesiones por semana</h4>
                                         <h4><i class="fas fa-check"></i> 3 horas por sesión</h4>
                             
@@ -140,18 +139,18 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4">
                                 <h6 class="card-subtitle mb-2 text-muted title-card-new">DATA ANALITYCS</h6>
-                                <p class="card-text">Para developers escenciales</p>
-                                <p class="card-text promocion-card">Para developers escenciales</p>
+                                <p class="card-text">Análisis de datos</p>
+                                <p class="card-text promocion-card"></p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
                             <div class="col-sm-12 col-md-4">
-                                <p class="card-text">Empieza el 21/08/21</p>
-                                <p class="card-text pt-4">Dura 3 meses</p>
+                                <p class="card-text">Grupos reducidos</p>
+                                <p class="card-text pt-4">Clases Personalizadas</p>
                                 <p class="card-text pt-4">Capacidad de 30 alumnos</p>
                             </div>
                             <div class="col-sm-12 col-md-4">
                                 <p class="card-text">Certificado al aprobar el proyecto final.</p>
-                                <p class="card-text pt-4">Mentor profesional experto en desarrollo de software en SQL</p>                        
+                                <p class="card-text pt-4">Mentor profesional experto en Data Analitycs</p>                        
                             </div>
                         </div>
 
@@ -170,7 +169,8 @@
 
 No obstante, si bien el tema tecnológico es posible resolverse equipando a la empresa de infraestructura computacional, bien sea en un entorno cloud, on-premise o combinaciones de ellos; el tema de incorporar y mantener el recurso humano capacitado en áreas de conocimiento integrales, relacionadas al manejo de datos, se ha convertido en uno de los grandes desafíos a los que se enfrentan las organizaciones a nivel mundial. Esto último se traduce en una falta ocupacional en las posiciones relacionadas con el procesamiento de grandes volúmenes de datos en general (ingeniería de datos) y la analítica de datos en particular. El Data Analytics dentro de una organización se ha convertido entonces en un recurso indispensable para su crecimiento y expansión, lo que convierte a esta área de conocimiento en una oportunidad segura para ampliar el alcance profesional.
                     </p>
-                    <h3>Objetivos del curso</h3>
+                    <br />
+                     <h3>¿Que vas a aprender?</h3>
                     <p class="">
                         Este programa ha sido pensado para profesionales que desean emprender en el área del análisis de los datos y que quieran generar impacto dentro de las unidades de negocio de una organización. Es ideal para quienes esperan ampliar o profundizar conocimientos dentro de sus rubros profesionales, como por ejemplo: Administración y/o Negocios, Ingeniería , Economía, Contabilidad o carreras técnicas. También apunta a quienes buscan dar un giro profesional a su programa, orientándose hacia una nueva disciplina muy demandada en el mercado de diversas industrias.
                     </p>
@@ -184,19 +184,18 @@ No obstante, si bien el tema tecnológico es posible resolverse equipando a la 
                    <image src="assets/images/front2.png" width="100%" ></image> 
                 </div>
                 <div class="col-sm-6">
-                    <h3>A quién va dirigido el curso</h3>
+                    <h3>¿A quién va dirigido?</h3>
                     <p>Este programa ha sido pensado para profesionales que desean emprender en el área del análisis de los datos y que quieran generar impacto dentro de las unidades de negocio de una organización. Es ideal para quienes esperan ampliar o profundizar conocimientos dentro de sus rubros profesionales, como por ejemplo: Administración y/o Negocios, Ingeniería , Economía, Contabilidad o carreras técnicas. También apunta a quienes buscan dar un giro profesional a su programa, orientándose hacia una nueva disciplina muy demandada en el mercado de diversas industrias.</p>
-                    <div class="row pt-2">
+                    <div class="row pt-5">
                         <div class="col-sm-12">
+                             <h3>Requisitos</h3>
                             <p>
-                               Como requisito indispensable tener ganas de aprender y de reinventarse en su área profesional.<br /><br />
+Recomendamos como requisitos deseables y no limitantes:<br />
 
-Recomendamos como requisitos deseables y no limitantes:<br /><br />
-
-● Conocer conceptos elementales de matemática básica (lógica matemática, álgebra y geometría analítica).<br />
-● Conocimientos esenciales de estadística descriptiva (población, muestra, medidas de tendencia central y distribuciones de probabilidad).<br />
-● Fundamentos de la programación (conceptos básicos de algoritmia).<br />
-● Manejo básico del idioma inglés, ya que en el transcurso del programa se utilizan recursos de aprendizaje digitales escritos y hablados en inglés.
+<i class="fas fa-check"></i> Conocer conceptos elementales de matemática básica (lógica matemática, álgebra y geometría analítica).<br />
+<i class="fas fa-check"></i> Conocimientos esenciales de estadística descriptiva (población, muestra, medidas de tendencia central y distribuciones de probabilidad).<br />
+<i class="fas fa-check"></i> Fundamentos de la programación (conceptos básicos de algoritmia).<br />
+<i class="fas fa-check"></i> Manejo básico del idioma inglés, ya que en el transcurso del programa se utilizan recursos de aprendizaje digitales escritos y hablados en inglés.
                             </p>
                         </div>
                     </div>
@@ -210,12 +209,14 @@ Recomendamos como requisitos deseables y no limitantes:<br /><br />
 
 Los procesos de enseñanza y aprendizaje en entornos virtuales reviste peculiaridades y características específicas que la distinguen de la modalidad tradicional presencial. Uno de los elementos característicos en este tipo de experiencias está constituido por la multilateralidad de la comunicación. Los participantes, más allá de los roles que desempeñen, se interrelacionan permanentemente, a través de la multiplicidad de recursos y herramientas provistas.                
                     </p>
+
+                    <br />
                     <h3>Proyecto final</h3>
                     <p>
                         El proyecto final e integrador que se realiza durante la cursada, será aquel que en caso de estar aprobado, la institución (DEV PLACE) emitirá un certificado de aprobación del programa. En todas las clases, el mentor dispondrá de los primeros 10 minutos en concepto de "daily" para que los alumnos puedan mostrar avances y evacuar dudas. Al terminar el programa se hará una clase extra donde los alumnos tendrán que exponer el proyecto y defenderlo. Finalizada la exposición, el alumno tendrá que entregar el proyecto para que el mentor lo corrija según las rúbricas de evaluación dispuestas por DEV PLACE. Posteriormente el mentor le alcanzará una devolución al alumno donde se considerará si el proyecto está "aprobado" o se debe "volver a hacer".
                     </p>
-                    <h4 class="pt-3">Perfil de egresado</h4>
-                    <p>Al finalizar este programa estará capacitado para transformar datos en información que permitirán tomar decisiones complejas, habrá adquirido las competencias necesarias para su desempeño laboral, convirtiéndolo en un nuevo profesional que:<br /><br />
+                    <h3 class="pt-5">Perfil de egresado</h4>
+                    <p>Al finalizar este programa estará capacitado para transformar datos en información que permitirán tomar decisiones complejas, habrá adquirido las competencias necesarias para su desempeño laboral, convirtiéndolo en un nuevo profesional que:<br />
 ● Comprende y aplica los conceptos asociados al análisis de datos y la extracción de patrones usando un lenguaje de programación, con el objetivo de identificar las diferentes técnicas y modelos en relación a las aplicaciones potenciales.<br />
                    
 ● Interpreta y transmite las tendencias obtenidas del análisis de datos y su influencia en las métricas de negocio, con el objetivo de potenciar el proceso de toma de decisiones empresariales.<br />
@@ -232,58 +233,16 @@ Los procesos de enseñanza y aprendizaje en entornos virtuales reviste peculiar
 
         </div>
 
-        <div class="container card-desc pt-5" id="proximos">        
+        <div class="container card-desc pt-5" id="proximos">
             <div class="row">
                 <div class="col-sm-12">
-                      <div class="card-body">
-                        <h2 class=" pt-5">Próximas fechas</h2>
-                        <div class="row pt-1 color-card mb-2">
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Julio Septiembre</h6>
-                                <p>21/07 al 21/09</p>
-                            </div>
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Horario</h6>
-                                <p>20 a 22 Hs.</p>
-                            </div>
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Modalidad</h6>
-                                <p>Online en vivo</p>
-                            </div>
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Profesor</h6>
-                                <p>Lucas de Souza</p>
-                            </div>
-                            <div class="col-sm-11 col-md-3 mt-3 mb-4 text-center">
-                                <button type="button"class="btn btn-primary promocion-button-card">Inscribirme</button>
-                            </div>
-                      </div>
+                    <div class="card-body" id="proximas-fechas">
 
-                        <div class="row pt-1 color-card mb-2">
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Julio Septiembre</h6>
-                                <p>21/07 al 21/09</p>
-                            </div>
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Horario</h6>
-                                <p>20 a 22 Hs.</p>
-                            </div>
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Modalidad</h6>
-                                <p>Online en vivo</p>
-                            </div>
-                            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                                <h6>Profesor</h6>
-                                <p>Lucas de Souza</p>
-                            </div>
-                            <div class="col-sm-11 col-md-3 mt-3 mb-4 text-center">
-                                <button type="button"class="btn btn-primary promocion-button-card">Inscribirme</button>
-                            </div>
-                      </div>
+
 
                     </div>
-               </div>          
-           </div>
+                </div>
+            </div>
         </div>
 
 

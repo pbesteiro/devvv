@@ -91,7 +91,7 @@ namespace CruceroDelNorte.Negocio
 
                 }
 
-                return "<h3 class='title-general'>Proximas fechas</h3>"+finalTemplate;
+                return "<h2 class='pt-5'>Proximas fechas</h2>" + finalTemplate;
 
             }catch(Exception ex)
             {
@@ -102,6 +102,44 @@ namespace CruceroDelNorte.Negocio
         }
 
 
+        public string GetItemCurseFeesCombo(int technologyid)
+        {
+            try
+            {
+                Persistor per = new Persistor();
+                List<CurseFee> items = per.GetCurseFees(technologyid);
+
+
+                string feeRow = "<option value='-1'>Seleccionar</option>";
+
+
+                if (items.Count > 0)
+                {
+                    foreach (CurseFee item in items)
+                    {
+                        if (item.FeeNumber > 1)
+                            feeRow = feeRow + "<option value='" + item.FeeNumber + "'>" + item.FeeNumber.ToString() + " Pagos</option>";
+                        else
+                            feeRow = feeRow + "<option value='" + item.FeeNumber + "'>" + item.FeeNumber.ToString() + " Pago</option>";
+
+                    }
+                }
+                else
+                {
+                    feeRow = feeRow + "<option value='1'> 1 Pago </option>";
+                }
+
+
+
+                return feeRow;
+            }
+            catch (Exception ex)
+            {
+                return "";
+
+            }
+
+        }
 
         private string getPrices(int techId)
         {

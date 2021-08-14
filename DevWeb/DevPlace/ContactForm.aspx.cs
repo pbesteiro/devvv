@@ -48,7 +48,7 @@ namespace CruceroDelNorte
             form.Provinces = dm.getProvinces();
             form.knowUsBy = dm.getContactedBy();
             form.Curse = "<option value='" + item.Id + "' >" + item.Name + "</option>";
-
+            form.Fee = dm.GetItemCurseFeesCombo(item.TechnologyId);
             return form;
         }
 
@@ -71,7 +71,7 @@ namespace CruceroDelNorte
         public static void enviarMail(string nombre, string apellido, string email, string dni, string telefono, string fecNac, string curso,
                                         int cursoId, string province, int provinceId, string formaPago, int formaPagoId, string trabajo, int trabajoId,
                                         string puesto, string area, string empresa, string nivelEducativo, int nivelEducativoId, string buscaTrabajo, int buscaTrabajoId,
-                                        string realizoCursos, int realizoCursosId,  string cursoRealizado, string formaConocernos, int formaConocernosId)
+                                        string realizoCursos, int realizoCursosId, string cursoRealizado, string formaConocernos, int formaConocernosId, string cantPagos)
         {
             Persistor per = new Persistor();
             try
@@ -83,9 +83,16 @@ namespace CruceroDelNorte
                     body = body + "<b>Mail:</b> " + email + "<br /> ";
                     body = body + "<b>telefono:</b> " + telefono + "<br /> ";
                     body = body + "<b>Nombre:</b> " + nombre + "<br /> ";
-                    body = body + "<b>Experiencia labroal:</b> " + trabajo + "<br /> ";
-                    body = body + "<b>Estudios:</b> " + nivelEducativo + "<br /> ";
+                    body = body + "<b>Apellido:</b> " + apellido + "<br /> ";
+                    body = body + "<b>Provincia:</b> " + province + "<br /> ";
+                    body = body + "<b>Dni:</b> " + dni + "<br /> ";
+                    //body = body + "<b>Experiencia labroal:</b> " + trabajo + "<br /> ";
+                    //body = body + "<b>Estudios:</b> " + nivelEducativo + "<br /> ";
                     body = body + "<b>Forma de Pago:</b> " + formaPago + "<br /> ";
+                    body = body + "<b>Cantidad de Pagos:</b> " + cantPagos + "<br /> ";
+                    body = body + "<b>Forma de Conocernos:</b> " + formaConocernos + "<br /> ";
+
+
 
                     Cartero cartero = new Cartero("aplicantes@devplace.com.ar", body, "Contacto desde Pagina Dev Place", "info@devplace.com.ar", "", "", "aplicantes@devplace.com.ar", "4pl1c4nt3s!");
                     cartero.sendMailExterno();
@@ -111,12 +118,12 @@ namespace CruceroDelNorte
                     applicant.FirstName = nombre;
                     applicant.Job = puesto;
                     applicant.LastName = apellido;
-                    applicant.LookingJob = buscaTrabajoId ;
-                    applicant.MadeCurse =realizoCursosId;
+                    applicant.LookingJob = buscaTrabajoId;
+                    applicant.MadeCurse = realizoCursosId;
                     applicant.PaymentType = formaPagoId;
                     applicant.ProvinceId = provinceId;
                     applicant.Telephone = telefono;
-                    applicant.Working = trabajoId ;
+                    applicant.Working = trabajoId;
 
 
 

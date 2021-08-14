@@ -111,8 +111,7 @@
                                         <h4><u>CURSOS</u> > <u>PROGRAMACION BASICA</u> > JAVASCRIPT BASICO</h4>
                                         <h4 class="pt-3">MODALIDAD ONLINE <b>EN VIVO</b></h4>
                                         <h1 class="pt-1">JAVASCRIPT BASICO</h1>
-                                        <h4 class="pt-5"><i class="fas fa-check"></i> Capacidad de 30 alumnos</h4>
-                                        <h4><i class="fas fa-check"></i> Dura 9 semanas</h4>
+                                        <h4 class="pt-5"><i class="fas fa-check"></i> Duración 9 semanas</h4>
                                         <h4><i class="fas fa-check"></i> 2 sesiones por semana</h4>
                                         <h4><i class="fas fa-check"></i> 2 horas por sesión</h4>
                             
@@ -152,8 +151,9 @@
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
                             <div class="col-sm-12 col-md-4">
-                                <p class="card-text">Empieza el 21/08/21</p>
-                                <p class="card-text pt-4">Dura 9 semana30 alumnos</p>
+                                <p class="card-text">Grupos reducidos</p>
+                                <p class="card-text pt-4">Clases Personalizadas</p>
+                                <p class="card-text pt-4">Capacidad de 30 alumnos</p>
                             </div>
                             <div class="col-sm-12 col-md-4">
                                 <p class="card-text">Certificado al aprobar el proyecto final.</p>
@@ -170,7 +170,7 @@
         <div class="container pt-5 pb-5">        
             <div class="row m-4">
                 <div class="col-sm-7">
-                    <h3>Objetivos del curso</h3>
+                     <h3>¿Que vas a aprender?</h3>
                     <p class="">Aprender JavaScript hoy en día es una necesidad de cualquier desarrollador Front End que inclusive puede expandirse al Back End y desarrollo móvil. JavaScript es uno de los lenguajes más demandados en la industria y saberlo utilizar es fundamental para ser competitivo en el mercado laboral.
 
 El objetivo principal del curso es introducirte al mundo de la programación JavaScript, empezando de cero hasta llevarte a un nivel intermedio, necesario para que puedas ingresar sin problemas a capacitaciones en lenguajes más avanzados. Si querés ser un programador con bases sólidas para continuar aumentando tus conocimientos, este curso es para vos!</p>
@@ -184,17 +184,14 @@ El objetivo principal del curso es introducirte al mundo de la programación Jav
                    <image src="assets/images/front2.png" width="100%" ></image> 
                 </div>
                 <div class="col-sm-6">
-                    <h3>A quién va dirigido el curso</h3>
-                    <p>EEl curso está dirigido a personas con experiencia mínima o nula en programación.</p>
-                    <div class="row pt-2">
-                        <div class="col-sm-6">
-                            <h5>Requisitos</h5>
+                    <h3>¿A quién va dirigido?</h3>
+                    <p>El curso está dirigido a personas con experiencia mínima o nula en programación.</p>
+                    <div class="row pt-5">
+                        <div class="col-sm-12">
+                            <h3>Requisitos</h3>
                             <p>
                                 <i class="fas fa-check"></i> Conocimiento básico de HTML (recomendable, pero no requerido).
                             </p>
-                        </div>
-                        <div class="col-sm-6">
-                            <a href="#">Ver requisitos de asistencia y aprobación</a>
                         </div>
                     </div>
                 </div>
@@ -203,7 +200,7 @@ El objetivo principal del curso es introducirte al mundo de la programación Jav
                 <div class="col-sm-7">
                     <h3>Proyecto final</h3>
                     <p>El proyecto final e integrador que se realiza durante la cursada, será aquel que en caso de estar aprobado, la institución (DEV PLACE) emitirá un certificado de aprobación del curso. En todas las clases, el mentor dispondrá de los primeros 10 minutos en concepto de "daily" para que los alumnos puedan mostrar avances y evacuar dudas. Al terminar el curso se hará una clase extra donde los alumnos tendrán que exponer el proyecto y defenderlo. Finalizada la exposición, el alumno tendrá que entregar el proyecto para que el mentor lo corrija según las rúbricas de evaluación dispuestas por DEV PLACE. Posteriormente el mentor le alcanzará una devolución al alumno donde se considerará si el proyecto está "aprobado" o se debe "volver a hacer".</p>
-                    <h4 class="pt-3">Perfil de egresado</h4>
+                    <h3 class="pt-5">Perfil de egresado</h4>
                     <p>El egresado será capaz de :<br /><br />
                         Al terminar este curso tendrá una base sólida de las herramientas fundamentales de programación como Tipos de Datos, Operadores, Sentencias de Control, Ciclos, Arreglos, Funciones y mucho más.
                         <br /><br />
@@ -221,53 +218,14 @@ Además, estará capacitado para:<br />
 
         </div>
 
-        <div class="container card-desc pt-5" id="proximos">  
-        <h2 class=" pt-5">Próximas fechas</h2>
-
-        <div class="row pt-1 color-card mb-2"> 
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Julio Septiembre</h6>
-                <p>21/07 al 21/09</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Horario</h6>
-                <p>20 a 22 Hs.</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Modalidad</h6>
-                <p>Online en vivo</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Profesor</h6>
-                <p>Lucas de Souza</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <button type="button"class="btn btn-primary promocion-button-card">Inscribirme</button>
+        <div class="container card-desc pt-5" id="proximos">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card-body" id="proximas-fechas">
+                    </div>
+                </div>
             </div>
         </div>
-
-       <div class="row color-card mb-2">
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Julio Septiembre</h6>
-                <p>21/07 al 21/09</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Horario</h6>
-                <p>20 a 22 Hs.</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Modalidad</h6>
-                <p>Online en vivo</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <h6>Profesor</h6>
-                <p>Lucas de Souza</p>
-            </div>
-            <div class="col-sm-11 col-md-2 mt-3 mb-4 text-center">
-                <button type="button"class="btn btn-primary promocion-button-card">Inscribirme</button>
-            </div>
-        </div>
-    </div>
 
         <!--************** MODAL - POP UP - FORM CORTO  ****************** -->
         <div style="margin-top: 10rem;" id="open-modal-aplica" class="modal-window-fechas">
