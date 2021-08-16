@@ -176,13 +176,8 @@
                 </div>
                 <div class="col-sm-6">
                     <h3>¿A quién va dirigido?</h3>
-                    <p>
-                        El curso está dirigido a estudiantes de la carrera de sistemas o afines (siendo en universidad o tecnicaturas) o profesionales de la industria que tengan experiencia mínima de 8 meses desarrollando JavaScript. 
-
-                    </p>
-                    <p> 
-                        En caso de no contar con esta experiencia, te recomendamos realizar nuestro curso de JavaScript.
-                    </p>
+                    <p>El curso está dirigido a estudiantes de la carrera de sistemas o afines (siendo en universidad o tecnicaturas) o profesionales de la industria que tengan experiencia mínima de 8 meses desarrollando JavaScript. </p>
+                    <p>En caso de no contar con esta experiencia, te recomendamos realizar nuestro curso de JavaScript.</p>
                     <div class="row pt-5">
                         <div class="col-sm-12">
                             <h3>Requisitos</h3>
@@ -202,12 +197,12 @@
                     
                     <h3 class="pt-5">Perfil de egresado</h3>
                     <p>El egresado será capaz de :<br /><br />
-● Crear aplicaciones en React JS siguiendo las mejores prácticas.<br />
-● Dominar JSX para crear aplicaciones en React Js.<br />
-● Crear componentes reutilizables.<br />
-● Crear una aplicación cliente que consuma una API externa con autenticación y rutas protegidas.<br />
-● Usar librerías de terceros.<br />
-● Publicar tu aplicación en internet.</p>
+                        ● Crear aplicaciones en React JS siguiendo las mejores prácticas.<br />
+                        ● Dominar JSX para crear aplicaciones en React Js.<br />
+                        ● Crear componentes reutilizables.<br />
+                        ● Crear una aplicación cliente que consuma una API externa con autenticación y rutas protegidas.<br />
+                        ● Usar librerías de terceros.<br />
+                        ● Publicar tu aplicación en internet.</p>
 
                 </div>
                 <div class="col-sm-5">

@@ -199,17 +199,16 @@
                     </p>
                     <h3 class="pt-5">Perfil de egresado</h4>
                     <p>El egresado será capaz de :<br /><br />
-● Realizar Web APIs con NodeJS y TypeScript.<br />
-● Utilizar el framework Nest Js.<br />
-● Trabajar con las últimas herramientas de Desarrollo como Npm y Git.<br />
-● Instalar, configurar y trabajar con Docker.<br />
-● Crear Servicios Rest.<br />
-● Acceder a la Base de Datos utilizando Mongoose.<br />
-● Separar la Lógica de Negocios del acceso a datos, así como la separación de Responsabilidades implementando los principios SOLID de desarrollo.<br />
-● Utilizar el Servicio Integrado de Inyección de Dependencias.<br />
-● Implementar Json Web Tokens (JWT) para control de autenticación y administración de roles.<br />
-● Deployar la Api en los servidores Heroku y la base de datos en MongoDb Atlas.</p>
-
+                    ● Realizar Web APIs con NodeJS y TypeScript.<br />
+                    ● Utilizar el framework Nest Js.<br />
+                    ● Trabajar con las últimas herramientas de Desarrollo como Npm y Git.<br />
+                    ● Instalar, configurar y trabajar con Docker.<br />
+                    ● Crear Servicios Rest.<br />
+                    ● Acceder a la Base de Datos utilizando Mongoose.<br />
+                    ● Separar la Lógica de Negocios del acceso a datos, así como la separación de Responsabilidades implementando los principios SOLID de desarrollo.<br />
+                    ● Utilizar el Servicio Integrado de Inyección de Dependencias.<br />
+                    ● Implementar Json Web Tokens (JWT) para control de autenticación y administración de roles.<br />
+                    ● Deployar la Api en los servidores Heroku y la base de datos en MongoDb Atlas.</p>
                 </div>
                 <div class="col-sm-5">
                     <image src="assets/images/front3.png" width="100%" ></image>

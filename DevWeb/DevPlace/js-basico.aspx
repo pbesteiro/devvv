@@ -146,8 +146,8 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4">
                                 <h6 class="card-subtitle mb-2 text-muted title-card-new">JAVASCRIPT BASICO</h6>
-                                <p class="card-text">Para developers escenciales</p>
-                                <p class="card-text promocion-card">Para developers escenciales</p>
+                                <p class="card-text">Programación básica</p>
+                                <p class="card-text promocion-card">No necesitas conocimientos previos en programación</p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
                             <div class="col-sm-12 col-md-4">

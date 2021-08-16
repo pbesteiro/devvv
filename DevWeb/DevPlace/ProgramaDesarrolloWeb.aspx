@@ -136,7 +136,7 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4">
                                 <h6 class="card-subtitle mb-2 text-muted title-card-new">DESARROLLO WEB</h6>
-                                <p class="card-text">Programas escenciales</p>
+                                <p class="card-text">Para no desarrolladores</p>
                                 <p class="card-text promocion-card">No necesitás conocimientos previos en programación</p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
@@ -162,11 +162,10 @@
                 <div class="col-sm-7">
                      <h3>¿Que vas a aprender?</h3>
                     <p class="">
-                        El objetivo de este programa es darte todos los conocimientos necesarios para que te conviertas en un desarrollador web, para que puedas realizar desde cero el maquetado de un portal web aplicando todo el poder de CSS y JavaScript. Para esto nuestro, dividimos nuestro programa en tres etapas:
-<br /><br />
-● Introducción a Javascript: En esta etapa te introduciremos al mundo de la programación JavaScript, empezando de cero conocimiento hasta llevarte a un nivel intermedio, necesario para poder realizar las funcionalidades necesarias como validación de formulario o utilización de librerías externas.<br />
-●Maquetado HTML: Realizamos la maquetación de una página de viajes a la cual se podrá acceder desde diferentes dispositivos, ya sea una computadora, tablet o celular.<br />
-●Utilización CSS: Aplicaremos los estilos del sitio web utilizando clases, etiquetas y todo el poder de CSS.<br />
+                        El objetivo de este programa es darte todos los conocimientos necesarios para que te conviertas en un desarrollador web, para que puedas realizar desde cero el maquetado de un portal web aplicando todo el poder de CSS y JavaScript. Para esto nuestro, dividimos nuestro programa en tres etapas:<br />
+●<b> Introducción a Javascript:</b> En esta etapa te introduciremos al mundo de la programación JavaScript, empezando de cero conocimiento hasta llevarte a un nivel intermedio, necesario para poder realizar las funcionalidades necesarias como validación de formulario o utilización de librerías externas.<br />
+●<b> Maquetado HTML:</b> Realizamos la maquetación de una página de viajes a la cual se podrá acceder desde diferentes dispositivos, ya sea una computadora, tablet o celular.<br />
+●<b> Utilización CSS:</b> Aplicaremos los estilos del sitio web utilizando clases, etiquetas y todo el poder de CSS.<br />
 
                     </p>
                 </div>

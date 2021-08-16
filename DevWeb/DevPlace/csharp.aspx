@@ -193,11 +193,11 @@
                     <p>El proyecto final e integrador que se realiza durante la cursada, será aquel que en caso de estar aprobado, la institución (DEV PLACE) emitirá un certificado de aprobación del curso. En todas las clases, el mentor dispondrá de los primeros 10 minutos en concepto de "daily" para que los alumnos puedan mostrar avances y evacuar dudas. Al terminar el curso se hará una clase extra donde los alumnos tendrán que exponer el proyecto y defenderlo. Finalizada la exposición, el alumno tendrá que entregar el proyecto para que el mentor lo corrija según las rúbricas de evaluación dispuestas por DEV PLACE. Posteriormente el mentor le alcanzará una devolución al alumno donde se considerará si el proyecto está "aprobado" o se debe "volver a hacer".</p>
                     <h3 class="pt-5">Perfil de egresado</h4>
                     <p>El egresado será capaz de :<br /><br />
-● Armar una API RestFul completa de punta a punta.<br />
-● Realizar el deploy en un Servidor.<br />
-● Realizar un desarrollo en C# utilizando las mejores prácticas del lenguaje.<br />
-● Aumentar su capacidad analítica para la correcta toma de decisiones en la realización de un proyecto Backend.<br />
-● Utilizar las herramientas y librerías más demandadas del mercado del framework .NET Core..</p>
+                    ● Armar una API RestFul completa de punta a punta.<br />
+                    ● Realizar el deploy en un Servidor.<br />
+                    ● Realizar un desarrollo en C# utilizando las mejores prácticas del lenguaje.<br />
+                    ● Aumentar su capacidad analítica para la correcta toma de decisiones en la realización de un proyecto Backend.<br />
+                    ● Utilizar las herramientas y librerías más demandadas del mercado del framework .NET Core.</p>
 
                 </div>
                 <div class="col-sm-5">

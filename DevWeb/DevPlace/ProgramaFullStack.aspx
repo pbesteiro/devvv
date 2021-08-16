@@ -148,14 +148,14 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4">
                                 <h6 class="card-subtitle mb-2 text-muted title-card-new">SQL</h6>
-                                <p class="card-text">Para developers escenciales</p>
-                                <p class="card-text promocion-card">Para developers escenciales</p>
+                                <p class="card-text">Para desarrolladores</p>
+                                <p class="card-text promocion-card">Tecnologías con alta demanda en el mercado IT</p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
                             <div class="col-sm-12 col-md-4">
                                 <p class="card-text">Grupos reducidos</p>
                                 <p class="card-text pt-4">Clases Personalizadas</p>
-                                <p class="card-text pt-4">Capacidad de 15 alumnos</p>
+                                <p class="card-text pt-4">Capacidad de 20 alumnos</p>
                             </div>
                             <div class="col-sm-12 col-md-4">
                                 <p class="card-text">Certificado al aprobar el proyecto final.</p>
@@ -173,12 +173,12 @@
             <div class="row m-4">
                 <div class="col-sm-7">
                      <h3>¿Que vas a aprender?</h3>
-                    <p class="">El objetivo de este programa es darte todos los conocimientos necesarios para que te conviertas en un desarrollador JavaScript que pueda realizar proyectos tanto en Back End como en Front End. Para esto nuestro, dividimos nuestro programa en tres etapas:
+                    <p class="">El objetivo de este programa es darte todos los conocimientos necesarios para que te conviertas en un desarrollador JavaScript que pueda realizar proyectos tanto en Back End como en Front End. Para esto nuestro, dividimos nuestro programa en tres etapas:<br />
 
 
-● Introducción a Javascript: en esta etapa realizaremos un repaso sobre el desarrollo en javascript y sus principales características.
-● Proyecto Node JS Backend: haremos una API Rest de una pequeña red social con funciones básicas, implementando la separación de responsabilidades en capas, inyección de dependencias, y dividiendo nuestra lógica de acceso a datos, modelos y lógica de negocio. Trabajaremos con Programación Orientada a Objetos, Principios Solid y Patrones de Diseño e implementaremos la seguridad con Json Web Tokens.
-● Proyecto React Js Frontend: realizaremos el Front End de la red social, consumiendo los servicios de nuestra API Rest y realizando los componentes necesarios para realizar las distintas pantallas de nuestra aplicación.</p>
+● <b>Introducción a Javascript:</b> En esta etapa realizaremos un repaso sobre el desarrollo en javascript y sus principales características.<br />
+● <b>Proyecto Node JS Backend:</b> Haremos una API Rest de una pequeña red social con funciones básicas, implementando la separación de responsabilidades en capas, inyección de dependencias, y dividiendo nuestra lógica de acceso a datos, modelos y lógica de negocio. Trabajaremos con Programación Orientada a Objetos, Principios Solid y Patrones de Diseño e implementaremos la seguridad con Json Web Tokens.<br />
+● <b>Proyecto React Js Frontend:</b> Realizaremos el Front End de la red social, consumiendo los servicios de nuestra API Rest y realizando los componentes necesarios para realizar las distintas pantallas de nuestra aplicación.</p>
                 </div>
                 <div class="col-sm-5">
                     <image src="assets/images/front1.png" width="100%" ></image>
