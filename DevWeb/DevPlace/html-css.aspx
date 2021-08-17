@@ -135,7 +135,7 @@
                             <div class="col-sm-12 col-md-4">
                                 <h6 class="card-subtitle mb-2 text-muted title-card-new">HTML - CSS</h6>
                                 <p class="card-text">Programación básica</p>
-                                <p class="card-text promocion-card">No necesitas conocimientos previos en proggramación</p>
+                                <p class="card-text promocion-card">No necesitas conocimientos previos en programación</p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
                             <div class="col-sm-12 col-md-4">
@@ -144,7 +144,7 @@
                                 <p class="card-text pt-4">Capacidad de 30 alumnos</p>
                             </div>
                             <div class="col-sm-12 col-md-4">
-                                <p class="card-text">Certificado al aprobar el proyecto final.</p>
+                                <p class="card-text">Certificado al aprobar el proyecto final</p>
                                 <p class="card-text pt-4">Mentor profesional experto en desarrollo de software con HTML-CSS</p>                        
                             </div>
                         </div>

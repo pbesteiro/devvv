@@ -99,9 +99,9 @@
                                         <h4><u>PROGRAMAS</u> > <u>DATOS</u> > DATA SCIENCE</h4>
                                         <h4 class="pt-3">MODALIDAD ONLINE <b>EN VIVO</b></h4>
                                         <h1 class="pt-1">DATA SCIENCE</h1>
-                                        <h4 class="pt-5"><i class="fas fa-check"></i>Duración 6 meses</h4>
-                                        <h4><i class="fas fa-check"></i>2 sesiones por semana</h4>
-                                        <h4><i class="fas fa-check"></i>2:30 horas por sesión</h4>
+                                        <h4 class="pt-5"><i class="fas fa-check"></i> Duración 6 meses</h4>
+                                        <h4><i class="fas fa-check"></i> 2 sesiones por semana</h4>
+                                        <h4><i class="fas fa-check"></i> 2:30 horas por sesión</h4>
 
                                         <div class="row pt-3">
                                             <div class="col-sm-12 col-md-12 col-xl-5">
@@ -139,8 +139,7 @@
                                     <h6 class="card-subtitle mb-2 text-muted title-card-new">DATA SCIENCE</h6>
                                     <p class="card-text">Programa exclusivo para manejo de datos</p>
                                     <p class="card-text promocion-card">No necesitas conocimientos previos en programación</p>
-                                    <a href="#proximos">
-                                        <button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>
+                                    <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>
                                 </div>
                                 <div class="col-sm-12 col-md-4">
                                     <p class="card-text">Grupos reducidos</p>
@@ -148,7 +147,7 @@
                                     <p class="card-text pt-4">Capacidad de 30 alumnos</p>
                                 </div>
                                 <div class="col-sm-12 col-md-4">
-                                    <p class="card-text">Certificado al aprobar el proyecto final.</p>
+                                    <p class="card-text">Certificado al aprobar el proyecto final</p>
                                     <p class="card-text pt-4">Mentor profesional experto en desarrollo de software en Data Science</p>
                                 </div>
                             </div>

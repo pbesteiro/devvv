@@ -154,7 +154,7 @@
                                 <p class="card-text pt-4">Capacidad de 30 alumnos</p>
                             </div>
                             <div class="col-sm-12 col-md-4">
-                                <p class="card-text">Certificado al aprobar el proyecto final.</p>
+                                <p class="card-text">Certificado al aprobar el proyecto final</p>
                                 <p class="card-text pt-4">Mentor profesional experto en desarrollo de software en Javascript</p>                        
                             </div>
                         </div>
