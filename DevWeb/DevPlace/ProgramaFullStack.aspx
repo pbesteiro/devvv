@@ -147,7 +147,7 @@
 
                         <div class="row">
                             <div class="col-sm-12 col-md-4">
-                                <h6 class="card-subtitle mb-2 text-muted title-card-new">SQL</h6>
+                                <h6 class="card-subtitle mb-2 text-muted title-card-new">Desarrollo Full Stack JS</h6>
                                 <p class="card-text">Para desarrolladores</p>
                                 <p class="card-text promocion-card">Tecnologías con alta demanda en el mercado IT</p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
