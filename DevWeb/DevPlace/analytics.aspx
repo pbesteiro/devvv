@@ -139,8 +139,8 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4">
                                 <h6 class="card-subtitle mb-2 text-muted title-card-new">DATA ANALITYCS</h6>
-                                <p class="card-text">Análisis de datos</p>
-                                <p class="card-text promocion-card"></p>
+                                <p class="card-text">Programa exclusivo para manejo de datos</p>
+                                <p class="card-text promocion-card">No necesitas conocimientos previos en programación</p>
                                 <a href="#proximos"><button type="button" class="btn btn-primary promocion-button-card">Inscribirme</button></a>                   
                             </div>
                             <div class="col-sm-12 col-md-4">
